@@ -1,13 +1,13 @@
 # 🧠 C++ Practice Projects
 
-This repository contains a collection of **C++ mini-projects** developed as part of my learning journey through the **[Programming Advices](https://www.programmingadvices.com/)** roadmap.  
+This repository contains a collection of **C++ projects** developed as part of my learning journey through the **[Programming Advices](https://www.programmingadvices.com/)** roadmap.  
 Each project is designed to strengthen my programming logic, apply problem-solving techniques, and practice custom implementations using my own functions — without relying on built-in functions or STL.
 
 ---
 
 ## 🚀 Goals
 
-- Apply core programming concepts through practical mini-projects.
+- Apply core programming concepts through practical projects.
 - Strengthen logic and flow control in real scenarios.
 - Practice working with structs, enums, file handling, and user input/output.
 - Avoid using built-in library functions to deepen algorithmic understanding.
