@@ -78,9 +78,5 @@ Got ideas to make the game even better? Feel free to fork this repository, open 
 
 -----
 
-## 📄 License
 
-This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
------
 
