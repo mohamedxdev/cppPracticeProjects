@@ -23,19 +23,6 @@ Each project is designed to strengthen my programming logic, apply problem-solvi
   - Practicing decision structures and game loops  
   - Logic-only (no design or graphics)
 
-- **🏦 Bank1 Project**  
-  A basic file-based banking system:
-  - View all clients from a file  
-  - Add new clients  
-  - Update existing client data  
-  - Delete clients  
-
-- **💳 Bank2 Project (Extended)**  
-  Builds on Bank1 with transaction features:
-  - Deposit and withdraw operations  
-  - Balance checking  
-  - Enhanced logic and structured file management
-
 ---
 
 ## 🧰 Tools & Technologies
