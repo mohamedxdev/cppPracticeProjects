@@ -8,11 +8,7 @@
 
 -----
 
-## ✨ Overview
 
-This is a classic command-line **Rock-Paper-Scissors game** built using C++. Challenge the computer across multiple rounds and see who comes out on top\! It's a fun project showcasing fundamental C++ programming concepts.
-
------
 
 ## 🚀 Features
 
@@ -24,6 +20,17 @@ This is a classic command-line **Rock-Paper-Scissors game** built using C++. Cha
 
 -----
 
+## 📁 Projects Overview
+
+- **🪨 Rock, Paper, Scissors Game**  
+  A console-based C++ game focused on:
+  - Using `enum` types for player choices  
+  - Organizing code with `struct`s and functions  
+  - Practicing decision structures and game loops  
+  - Logic-only (no design or graphics)
+
+    
+-----
 ## 🎮 How to Play
 
 1.  **Clone the Repository:**
