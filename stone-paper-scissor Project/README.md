@@ -31,40 +31,7 @@
 
     
 -----
-## 🎮 How to Play
 
-1.  **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
-    ```
-
-    *Remember to replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.*
-
-2.  **Compile the Code:**
-    You'll need a C++ compiler (like `g++`). Run this command in your terminal:
-
-    ```bash
-    g++ main.cpp -o rock_paper_scissors
-    ```
-
-3.  **Run the Game:**
-    Execute the compiled program:
-
-    ```bash
-    ./rock_paper_scissors
-    ```
-
-4.  **Follow the Prompts:**
-    The game will guide you:
-
-      * First, enter the desired number of rounds (between 1 and 10).
-      * For each round, choose your move by entering `1` for Stone, `2` for Paper, or `3` for Scissors.
-
-Have fun battling the computer\!
-
------
 
 ## ⚙️ Built With
 
